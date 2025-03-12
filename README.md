@@ -16,6 +16,7 @@
 Programming Languages:
 - C
 - C++
+- Phyton
 - JavaScript
 - PHP
 - Java
@@ -42,10 +43,6 @@ Programming Languages:
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"> Git</td>
         </tr>
     </table>
-</div>
-<div align="center">
-    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
-    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300">
 </div>
 
 ## 🌟 GitHub Stats
