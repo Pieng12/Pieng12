@@ -7,7 +7,7 @@
 
 - 🎂 **Age**: 19 years old  
 - 🎓 **Student at**: Universitas Sumatera Utara
-- 💡 Passionate about Web Development & Semantic Web  
+- 💡 Passionate about Web Development & Machine Learning
 - 🚀 Always eager to learn new technologies  
 
 ## 🚀 Skills
