@@ -25,7 +25,7 @@ Programming Languages:
 ### 🛠️ Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript, React.js
-- **Backend**: PHP (Laravel), Node.js
+- **Backend**: PHP (Laravel)
 - **Database**: MySQL|
 - **Tools & Others**: Git, Visual Studio Code
 
