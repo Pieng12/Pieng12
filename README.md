@@ -35,8 +35,3 @@ Programming Languages:
     <img src="https://github-readme-stats.vercel.app/api?username=JonathanManik&show_icons=true&theme=tokyonight" width="400">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonathanManik&theme=tokyonight" width="400">
 </div>
-
-## 🔥 Fun GIFs
-
-![Coding GIF](https://media.giphy.com/media/3oKIPCSX4UHmuS41TG/giphy.gif)
-
